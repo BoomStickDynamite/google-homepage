@@ -1,0 +1,20 @@
+div#small_box {
+	height:2px;
+	width:2px;
+	background-color:gray;
+	padding:10px;
+}
+
+div#footer {
+	position:absolute;
+
+	float: right;
+}
+
+div div#footer_right {
+	float:right;
+}
+
+div div#footer_left {
+	float:left;
+}
